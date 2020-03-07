@@ -7,6 +7,7 @@ Number of Parameters: 358,016
 Number of Epochs: 25
 Best Validation Accuracy: 84.53%
 Final Validation Accuracy: 84.47%
+RF: 122
 
 The logs are as below:
 
