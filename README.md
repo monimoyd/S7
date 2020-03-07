@@ -1,7 +1,7 @@
 # S7
 Repository for assignment S7
 
-In this assignment I have trainded CIPHAR 10 dataset using CNN. I have developed APIs for loading data, training, testing and getting and plotting metrics
+In this assignment I have trainded CIPHAR 10 dataset using CNN. I have developed APIs for loading data, training, testing and getting and plotting metrics. The network is used C1-C2-C3-C4. Dilated kernel is used in one layer of C2 and Depthwise convolution is used in one layer of C3
 
 Number of Parameters: 358,016
 Number of Epochs: 25
